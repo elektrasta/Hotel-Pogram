@@ -10,14 +10,14 @@ I made a database with MSsql, a hotel program I developed with the C# programmin
 
 Here are some examples of the mobile application screens of the project:
 
-| picture 1                 | picture 2                 | picture 3                 |picture 3                 |
+| Hotel 1                 | Hotel 2                 | Hotel 3                 |Hotel 4                 |
 |------------------------|------------------------|------------------------|------------------------|
 | ![Başlık 1](https://github.com/elektrasta/Hotel-Pogram/blob/main/Screenshot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1249).png) | ![Başlık 2](https://github.com/elektrasta/Hotel-Pogram/blob/main/Screenshot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1250).png) | ![Başlık 3](https://github.com/elektrasta/Hotel-Pogram/blob/main/Screenshot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1251).png) | ![Başlık 3](https://github.com/elektrasta/Hotel-Pogram/blob/main/Screenshot/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(1252).png) |
-| Açıklama 1             | Açıklama 2             | Açıklama 3             |Açıklama 3             |
+| Hotel 1             | Hotel 2             | Hotel 3             |Hotel 4             |
 
 ## Utilization
 
-Download the project and run it with Godot Engine 4.2!
+download and install visual studio, then download MSSQL in the same way, install it, then integrate mdf and ldf files into the database, then open the project with visualstudio and change the database names in the code, and the project is yours.
 
 ## License
 
